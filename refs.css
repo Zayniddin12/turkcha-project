@@ -74,7 +74,9 @@
     /* width: 16px; */
     /* height: 16px; */
 }
-
+.box-logo:hover{
+cursor: pointer;
+}
 @media screen and (max-width: 970px) {
     .box-logo{
         width: 150px;
