@@ -2,6 +2,7 @@
     background: #F4F5F7;
     margin-top: 100px;
     padding: 59px 0;
+    margin-bottom: 150px;
 }
 
 .referenslarimiz__boxs {
@@ -97,6 +98,12 @@ cursor: pointer;
 }
 
 @media screen and (max-width: 820px) {
+    .referanslarimiz {
+        background: #F4F5F7;
+        margin-top: 100px;
+        padding: 59px 0;
+        margin-bottom: 40px;
+    }
     .box-logo{
         width: 150px;
         height: 96px;
