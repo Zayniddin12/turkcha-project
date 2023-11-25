@@ -26,6 +26,9 @@ margin-bottom: 90px;
 .qlty__prossec__cont{
     text-align: center;
 }
+.qlty__prossec__cont:hover{
+    cursor: pointer;
+}
 .qlty__prossec__cont h3{
     color: #000;
 text-align: center;
